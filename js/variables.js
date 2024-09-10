@@ -95,36 +95,36 @@ const twostoryPictures = [
 const grillPath = "/assets/images/galerias-page/grills/";
 const grillPictures = [
     { class: "div-img med-pic", img: `${grillPath}parrilla-0.jpg`, title: "Descubrí con nosotros cómo elegir la mejor parrilla para tu patio trasero. Esta es una parrilla de acero inoxidable con paredes con revestimiento plástico." },
-    { class: "div-img small-pic", img: `${grillPath}parrilla-18.png`, title: "Parrilla de acero inoxidable combinada perfectamente con paredes con revestimiento beige. Una opción elegante para quienes buscan hacer los mejores asados." },
-    { class: "div-img small-pic", img: `${grillPath}parrilla-1.jpeg`, title: "" },
-    { class: "div-img small-pic", img: `${grillPath}parrilla-3.jpg`, title: "" },
-    { class: "div-img small-pic", img: `${grillPath}parrilla-5.jpg`, title: "" },
-    { class: "div-img big-pic", img: `${grillPath}parrilla-9.jpg`, title: "" },
-    { class: "div-img small-pic", img: `${grillPath}parrilla-8.jpg`, title: "" },
-    { class: "div-img small-pic", img: `${grillPath}parrilla-10.png`, title: "" },
-    { class: "div-img med-pic", img: `${grillPath}parrilla-12.png`, title: "" },
-    { class: "div-img tosmall-pic", img: `${grillPath}parrilla-7.jpg`, title: "" },
-    { class: "div-img small-pic", img: `${grillPath}parrilla-17.png`, title: "" },
-    { class: "div-img tobig-pic", img: `${grillPath}parrilla-2.jpeg`, title: "" },
-    { class: "div-img med-pic", img: `${grillPath}parrilla-13.png`, title: "" },
-    { class: "div-img small-pic", img: `${grillPath}parrilla-14.png`, title: "" },
-    { class: "div-img small-pic", img: `${grillPath}parrilla-16.jpeg`, title: "" },
-    { class: "div-img med-pic", img: `${grillPath}parrilla.png`, title: "" }
+    { class: "div-img small-pic", img: `${grillPath}parrilla-18.png`, title: "Parrilla con frente de acero inoxidable combinada perfectamente con paredes con revestimiento beige y mesada con porcelanato blanco." },
+    { class: "div-img small-pic", img: `${grillPath}parrilla-1.jpeg`, title: "Con  mesada de porcelanato y pared revestida con ceramicos negros esta parrila cuenta con un toque de sofisticación inigualable." },
+    { class: "div-img small-pic", img: `${grillPath}parrilla-3.jpg`, title: "Descubri cómo hacer una parrillada perfecta con amigos y familiares con esta parrilla de acero inoxidable." },
+    { class: "div-img small-pic", img: `${grillPath}parrilla-5.jpg`, title: "Una guillotina que oculta la mesada con canilla es ideal para quienes buscan accesorios imprescindibles para parrillas." },
+    { class: "div-img big-pic", img: `${grillPath}parrilla-9.jpg`, title: "En esta galería con porcelanato simil madera, la parrilla de acero inoxidable se integra a la perfección con la pared de piedra San Luis, ofreciendo un ambiente que inspira a probar nuevas recetas." },
+    { class: "div-img small-pic", img: `${grillPath}parrilla-8.jpg`, title: "La canilla para parrilla, acompañada de cerámicos blancos, proporciona una solución para generar un ambiente funcional y elegante para tus asados." },
+    { class: "div-img small-pic", img: `${grillPath}parrilla-10.png`, title: "Mesada decorada con piedra San Juan que añade un toque de sofisticación frente a la parrilla, creando un espacio de cocina exterior con estilo" },
+    { class: "div-img med-pic", img: `${grillPath}parrilla-12.png`, title: "Desde los ventanales interiores, se aprecia la galería exterior con parrilla, mostrando un elegante espacio al aire libre ideal para reuniones y asados." },
+    { class: "div-img tosmall-pic", img: `${grillPath}parrilla-7.jpg`, title: "El emparrillado, junto con los ladrillos refractarios que rodean el espacio, se combinan creando un diseño funcional y estético de esta zona de parrilla." },
+    { class: "div-img small-pic", img: `${grillPath}parrilla-17.png`, title: "Parrilla con frente de acero inoxidable combinada perfectamente con paredes con revestimiento plástico beige. Una opción elegante para quienes buscan hacer los mejores asados" },
+    { class: "div-img tobig-pic", img: `${grillPath}parrilla-2.jpeg`, title: "Una vista panorámica completa de esta hermosa parrilla revestida con azulejos, pared de piedra San Juan y mesada con canilla, perfecta para tu patio." },
+    { class: "div-img med-pic", img: `${grillPath}parrilla-13.png`, title: "El detalle de la mesada con porcelanato y el revestimiento cerámico negro de la parrilla hace que esta área se destaque por su diseño moderno." },
+    { class: "div-img small-pic", img: `${grillPath}parrilla-14.png`, title: "La guillotina de la parrilla ofrece una solución práctica y estetica,complementando el diseño para quienes mantener su casa con un terminado impecable." },
+    { class: "div-img small-pic", img: `${grillPath}parrilla-16.jpeg`, title: "El horno empotrado complementa la zona de parrilla, añadiendo versatilidad y estilo al espacio, ideal para aquellos que buscan opciones diferentes para su casa." },
+    { class: "div-img med-pic", img: `${grillPath}parrilla.png`, title: "Una vista panorámica completa de hermosa parrilla revestida con cerámicos, pared de piedra San Luis y mesada, perfecta para tu patio." }
 ];
 
 
 //content for pool gallery
 const poolPath = "/assets/images/galerias-page/pools/";
 const poolPictures = [
-    { class: "div-img med-pic", img: `${poolPath}piscina-2.jpg`, title: "" },
-    { class: "div-img small-pic", img: `${poolPath}piscina-1.jpg`, title: "" },
-    { class: "div-img small-pic", img: `${poolPath}piscina-6.png`, title: "" },
-    { class: "div-img small-pic", img: `${poolPath}piscina-8.png`, title: "" },
+    { class: "div-img med-pic", img: `${poolPath}piscina-2.jpg`, title: "Añade un toque de lujo y relajación a tu jardín con una piscina elegante, creando un ambiente de paz y belleza incomparable." },
+    { class: "div-img small-pic", img: `${poolPath}piscina-1.jpg`, title: "Transforma tu jardín en un espacio de relajación con nuestras piscinas con garden blocks alrededor para un paisaje atractivo, diseñadas para ofrecer un refugio acogedor y estéticamente único." },
+    { class: "div-img small-pic", img: `${poolPath}piscina-6.png`, title: "Tenemos las mejores ideas para una transición armoniosa, para integrar una piscina con tu patio a la perfección." },
+    { class: "div-img small-pic", img: `${poolPath}piscina-8.png`, title: "Tenemos las mejores deas de diseño para interiores de piscina, como ésta revestida con cerámicos simil piedra Bali" },
     { class: "div-img small-pic", img: `${poolPath}piscina-12.png`, title: "" },
     { class: "div-img big-pic", img: `${poolPath}piscina-9.png`, title: "" },
     { class: "div-img small-pic", img: `${poolPath}piscina-3.jpg`, title: "" },
     { class: "div-img small-pic", img: `${poolPath}piscina-11.png`, title: "" },
-    { class: "div-img med-pic", img: `${poolPath}piscina-10.png`, title: "" },
+    { class: "div-img med-pic", img: `${poolPath}piscina-10.png`, title: "Crea un ambiente nocturno mágico en tu piscina con nuestra gama de iluminación LED, perfecta para relajarte bajo las estrellas y transformar tu jardín en un refugio encantador." },
     { class: "div-img small-pic", img: `${poolPath}piscina-4.png`, title: "" },
     { class: "div-img small-pic", img: `${poolPath}piscina-7.png`, title: "" },
     { class: "div-img small-pic", img: `${poolPath}piscina-5.png`, title: "" },
