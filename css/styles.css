@@ -1932,8 +1932,11 @@ body.light-bg {
   display: block;
   width: 100%;
   height: 100%;
+  position: relative;
+  z-index: 50;
 }
 .index__servicios .servicio__link .servicio__card {
+  width: 100%;
   height: 100%;
   display: flex;
   justify-content: center;
@@ -2769,7 +2772,7 @@ body.white {
   background-image: url(../../assets/images/obras/2.jpg);
 }
 .model:nth-child(3) .model__img {
-  background-image: url(../../assets/images/obras/3.jpg);
+  background-image: url(../../assets/images/modelos/ms-monoambiente1-vistafrontal.png);
 }
 
 .modal-header {
